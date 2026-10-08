@@ -1,0 +1,134 @@
+[
+    {
+        "defect_name": "missing_almonds",
+        "pixel_value": 255,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "missing_bananas",
+        "pixel_value": 254,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "missing_toppings",
+        "pixel_value": 253,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "missing_cereals",
+        "pixel_value": 252,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "missing_cereals_and_toppings",
+        "pixel_value": 251,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "2_nectarines_1_tangerine",
+        "pixel_value": 250,
+        "saturation_threshold": 100100,
+        "relative_saturation": false
+    },
+    {
+        "defect_name": "1_nectarine_1_tangerine",
+        "pixel_value": 249,
+        "saturation_threshold": 84300,
+        "relative_saturation": false
+    },
+    {
+        "defect_name": "0_nectarines_2_tangerines",
+        "pixel_value": 248,
+        "saturation_threshold": 100100,
+        "relative_saturation": false
+    },
+    {
+        "defect_name": "0_nectarines_3_tangerines",
+        "pixel_value": 247,
+        "saturation_threshold": 100100,
+        "relative_saturation": false
+    },
+    {
+        "defect_name": "3_nectarines_0_tangerines",
+        "pixel_value": 246,
+        "saturation_threshold": 200200,
+        "relative_saturation": false
+    },
+    {
+        "defect_name": "0_nectarines_1_tangerine",
+        "pixel_value": 245,
+        "saturation_threshold": 184400,
+        "relative_saturation": false
+    },
+    {
+        "defect_name": "0_nectarines_0_tangerines",
+        "pixel_value": 244,
+        "saturation_threshold": 268700,
+        "relative_saturation": false
+    },
+    {
+        "defect_name": "0_nectarines_4_tangerines",
+        "pixel_value": 243,
+        "saturation_threshold": 168600,
+        "relative_saturation": false
+    },
+    {
+        "defect_name": "compartments_swapped",
+        "pixel_value": 242,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "overflow",
+        "pixel_value": 241,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "underflow",
+        "pixel_value": 240,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "wrong_ratio",
+        "pixel_value": 239,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "mixed_cereals",
+        "pixel_value": 238,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "fruit_damaged",
+        "pixel_value": 237,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "box_damaged",
+        "pixel_value": 236,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "toppings_crushed",
+        "pixel_value": 235,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    },
+    {
+        "defect_name": "contamination",
+        "pixel_value": 234,
+        "saturation_threshold": 1.0,
+        "relative_saturation": true
+    }
+]
